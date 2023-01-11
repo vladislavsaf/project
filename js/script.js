@@ -17,6 +17,3 @@ personalMovieDB.movies[lastWatchedFilmFirst] = filmRaitingFirst;
 personalMovieDB.movies[lastWatchedFilmSecond] = filmRaitingSecond;
 
 console.log(personalMovieDB.movies);
-
-
-
